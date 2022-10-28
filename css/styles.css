@@ -1,0 +1,21 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: tomato;
+}
+
+h1 {
+  color: violet;
+  font-family: 'Raleway', sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+
+.benefits-list p {
+  color: blue;
+}
+
+.header > a {
+  color: aquamarine;
+}
